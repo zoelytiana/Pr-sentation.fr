@@ -1,0 +1,7 @@
+Nom : Ralamboarisoa
+Prénom : Zoely
+Age : 48
+Profession avant formation : développeur
+Dernier diplôme : BTS en informatique
+Attente : Acquerir les compétences en testing (méthodologie, outils, ...)
+
